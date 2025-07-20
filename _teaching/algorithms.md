@@ -9,8 +9,8 @@ location: "Los Angeles, California, USA"
 ---
 
 Instructors: 
-Prof. Mate Szabo, Spring 2025
-Prof. Victor Adamchik, Fall 2024, Spring 2020
+Prof. Mate Szabo, Spring 2025;
+Prof. Victor Adamchik, Fall 2024, Spring 2020;
 Prof. Shahriar Shamsian, Spring 2024, Fall 2022, Fall 2021, Fall 2020, Fall 2019
 
 Outline

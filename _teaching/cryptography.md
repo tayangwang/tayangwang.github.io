@@ -10,6 +10,10 @@ location: "Taipei, Taiwan"
 
 Instructor: Prof. Jiun-Ming Chen, Spring 2018
 
+Outline
+======
+A rapid introduction to modern cryptography with more mathematical insight.
+
 Syllabus
 ======
 * Basics of Abstract Algebra and Number Theory
