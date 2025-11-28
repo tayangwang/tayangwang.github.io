@@ -1,7 +1,11 @@
 ---
 title: 'The Secret to My Dynasty in Fantasy Baseball: A High-Risk, High-Reward Strategy'
+collection: talks
+type: "Podcast"
+permalink: /talks/2022-10-04-fantasy-baseball-strategy
+venue: "Fantasy Baseball 101 Podcast"
 date: 2022-10-04
-permalink: /posts/2022/10/fantasy-baseball-strategy/
+location: "Online"
 tags:
   - fantasy baseball
   - strategy
