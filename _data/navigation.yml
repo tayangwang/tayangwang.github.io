@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -19,17 +19,5 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=166L-AMAAAAJ
-  #  url: /publications/
-    
   - title: "CV"
     url: /files/CV_tayang.pdf
-  #  url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
