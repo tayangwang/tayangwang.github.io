@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently defended my Ph.D. in Computer Science at the **University of Southern California**, where I was a member of the [Data Science Lab](https://dslab.usc.edu/) led by [Prof. Viktor Prasanna](https://sites.usc.edu/prasanna/). My research focuses on Graph Representation Learning, specifically applying Graph Neural Networks to heterogeneous data from real-world applications. My work is built on a strong quantitative foundation from my Bachelor of Science in Mathematics at **National Taiwan University**.
+I am currently a Software Engineer at **Databricks**. I received my Ph.D. in Computer Science from the **University of Southern California**, where I was a member of the [Data Science Lab](https://dslab.usc.edu/) led by [Prof. Viktor Prasanna](https://sites.usc.edu/prasanna/). My dissertation, titled "**Heterogeneous Graph Representation Learning: Algorithms and Applications**", focuses on applying Graph Neural Networks to heterogeneous data from real-world applications. My work is built on a strong quantitative foundation from my Bachelor of Science in Mathematics at **National Taiwan University**.
 
 Previously, I was a research assistant at the [Medical Data Analytics (MeDA) Lab](https://www.medalab.ai/) led by [Prof. Weichung Wang](https://www.wwang.info/) at the [National Center for Theoretical Sciences](https://ncts.ntu.edu.tw/). I developed machine learning models for medical imaging, collaborated with the [National Taiwan University Hospital](https://www.ntuh.gov.tw/) on prostate cancer histopathology image classification which served as a key component of precision medicine.
 

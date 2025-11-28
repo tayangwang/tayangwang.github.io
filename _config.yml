@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Ta-Yang Wang"
   pronouns         : # example: "she/her"  
-  bio              : "CS Ph.D. @ USC"
-  location         : "Los Angeles, CA, USA"
-  employer         : "University of Southern California"
+  bio              : "Software Engineer @ Databricks"
+  location         : "Mountain View, CA, USA"
+  employer         : "Databricks"
   uri              : # URL
-  email            : "tayangwa@usc.edu" 
+  email            : "tayang.w@databricks.com" 
 
   # Academic websites
   academia         : # URL
