@@ -22,8 +22,6 @@ My first core principle is trusting the mean reversion of elite hitters, especia
 
 However, I didn't just look at the surface numbers. A deep dive into their Statcast data revealed that their core contact quality and expected statistics remained elite. They hadn't declined; they were just unlucky. This trust in underlying data allowed me to draft first-round talents in the second or third rounds, perfectly executing a "buy low, sell high" value investment strategy.
 
-> "Their surface stats might have been down last year, but if you looked at their advanced metrics from Statcast, they weren't bad at all."
-
 ## 2. Catchers Are Not Disposable: Crushing the Competition
 
 In the Fantasy Baseball community, "punting" the catcher position (waiting until the last rounds to draft one) is a common strategy. I strongly disagree. My early selection of **William Contreras** (Brewers) in the 5th round of another league stands as proof.
