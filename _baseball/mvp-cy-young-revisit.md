@@ -8,4 +8,5 @@ collection: baseball
 
 In this project, I re-examine past MLB award winners using modern sabermetrics such as WAR, wRC+, and FIP.
 
-*Content to be added...*
+### 1950s
+- [1954 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1954-nl-mvp/)

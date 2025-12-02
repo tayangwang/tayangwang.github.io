@@ -1,7 +1,7 @@
 ---
 title: "1954 NL MVP Top 10"
 collection: baseball
-permalink: /baseball/1954-nl-mvp/
+permalink: /baseball/mvp-cy-young-revisit/1954-nl-mvp/
 ---
 
 Here are my top 10 MVP candidates for the 1954 National League season, ranked not just by numbers, but by their dominance, style, and impact on the game.
