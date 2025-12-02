@@ -228,6 +228,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  baseball:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -286,6 +289,16 @@ defaults:
       author_profile: true
       share: true
 
+
+  # _baseball
+  - scope:
+      path: ""
+      type: baseball
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:

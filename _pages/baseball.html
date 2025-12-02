@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Baseball Research"
+permalink: /baseball/
+author_profile: true
+---
+
+{% include base_path %}
+
+Here you will find my personal baseball research projects, including re-evaluations of historical awards, Hall of Fame analysis, and positional rankings based on modern sabermetrics.
+
+{% for post in site.baseball %}
+  {% include archive-single.html %}
+{% endfor %}
