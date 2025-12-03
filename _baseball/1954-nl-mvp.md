@@ -4,6 +4,8 @@ collection: baseball
 permalink: /baseball/mvp-cy-young-revisit/1954-nl-mvp/
 ---
 
+The 1954 National League season was a year of triumph for the New York Giants. With Willie Mays returning from military service to electrify the league, the Giants surged past the Brooklyn Dodgers to claim the pennant. It was a season marked by one of the greatest defensive plays in history—"The Catch"—and a dominant World Series sweep that cemented this Giants team as one of the era's best.
+
 Here are my top 10 MVP candidates for the 1954 National League season, ranked not just by numbers, but by their dominance, style, and impact on the game.
 
 1. **Willie Mays** (New York Giants, CF)
