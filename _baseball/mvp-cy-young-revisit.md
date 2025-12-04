@@ -9,6 +9,6 @@ collection: baseball
 In this project, I re-examine past MLB award winners from a modern analytical perspective, focusing on players' actual on-field contributions. The goal is to provide a comprehensive, fair, and objective evaluation of who truly deserved the hardware.
 
 ### 1950s
-- [1954 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1954-nl-mvp/)
-- [1955 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1955-nl-mvp/)
-- [1956 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1956-nl-mvp/)
+- [1954 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1954-nl-mvp/) - **Winner:** Willie Mays
+- [1955 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1955-nl-mvp/) - **Winner:** Willie Mays
+- [1956 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1956-nl-mvp/) - **Winner:** Duke Snider
