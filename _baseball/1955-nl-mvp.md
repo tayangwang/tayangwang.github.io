@@ -7,6 +7,8 @@ hidden: true
 
 The 1955 National League season was a landmark year, culminating in the Brooklyn Dodgers finally capturing their elusive World Series title. It was a year of incredible individual performances, with sluggers rewriting record books and future Hall of Famers cementing their legacies.
 
+![The Brooklyn Dodgers](https://www.walteromalley.com/img/containers/01-images/content/feat-1955-top-1-e.jpg/4eb9e852bd611f828510c59df983d0e1.jpg)
+
 ## 1. Willie Mays (New York Giants, CF)
 **Actual Rank:** 4th
 **Stats:** .319 BA, .659 SLG, 51 HR, 127 RBI, 9.0 fWAR (8.8 bWAR)

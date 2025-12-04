@@ -7,6 +7,8 @@ hidden: true
 
 The 1956 National League season was a showcase of power and pitching, with the Brooklyn Dodgers fighting to defend their title against the rising Milwaukee Braves and Cincinnati Redlegs. While Don Newcombe took home the hardware, our revisit looks at the complete picture of value.
 
+![The Brooklyn Dodgers' first four African American players](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/wdsooqmfrq6bj71bi3ax)
+
 ## 1. Duke Snider (Brooklyn Dodgers, CF)
 **Actual Rank:** 10th
 **Stats:** .292/.399/.598, 43 HR, 101 RBI, 112 R, 156 OPS+, 7.6 fWAR (7.5 bWAR)

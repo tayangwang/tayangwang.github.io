@@ -7,7 +7,7 @@ hidden: true
 
 The 1954 National League season was a year of triumph for the New York Giants. With Willie Mays returning from military service to electrify the league, the Giants surged past the Brooklyn Dodgers to claim the pennant. It was a season marked by one of the greatest defensive plays in history—"The Catch"—and a dominant World Series sweep that cemented this Giants team as one of the era's best.
 
-![Willie Mays The Catch](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mays_catch_1954.jpg/640px-Mays_catch_1954.jpg)
+![Willie Mays The Catch](https://img.mlbstatic.com/mlb-images/image/private/ar_16:9,g_auto,q_auto:good,w_1024,c_fill,f_jpg,dpr_3.0/mlb/n4jwuvelfjq7tdkjkdha)
 *Willie Mays makes "The Catch" in Game 1 of the 1954 World Series. (Image: Public Domain)*
 
 ## 1. Willie Mays (New York Giants, CF)
