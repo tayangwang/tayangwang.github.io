@@ -12,3 +12,4 @@ In this project, I re-examine past MLB award winners from a modern analytical pe
 - [1954 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1954-nl-mvp/) - **Winner:** Willie Mays
 - [1955 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1955-nl-mvp/) - **Winner:** Willie Mays
 - [1956 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1956-nl-mvp/) - **Winner:** Duke Snider
+- [1957 NL MVP Top 10](/baseball/mvp-cy-young-revisit/1957-nl-mvp/) - **Winner:** Willie Mays
