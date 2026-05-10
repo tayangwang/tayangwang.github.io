@@ -1,6 +1,8 @@
 ---
 title: "1958 NL MVP: The Say Hey Kid vs. Mr. Cub"
-permalink: /baseball/1958-nl-mvp/
+collection: baseball
+permalink: /baseball/mvp-cy-young-revisit/1958-nl-mvp/
+hidden: true
 ---
 
 The 1958 National League MVP race was a showdown between two of the game's most iconic figures: Ernie Banks, who was redefining the shortstop position with his power, and Willie Mays, who was simply redefining what was possible on a baseball field. While Banks took home the hardware with a historic season, a closer look at the numbers suggests the "Say Hey Kid" might have had the edge in overall value.
@@ -19,7 +21,7 @@ Here is the re-ranked top 10 for the 1958 NL MVP:
 
 **Stats:** .313/.366/.614, 47 HR, 129 RBI, 119 R, 8.7 fWAR (9.3 bWAR)
 
-**The Case:** Ernie Banks had a season for the ages, hitting 47 home runs—a record for shortstops at the time—and driving in a league-leading 129 runs. He posted an 8.7 fWAR, a phenomenal number that would be worthy of MVP honors in almost any other year. His power production from a premium defensive position was revolutionary. "Let's play two!" Banks' infectious joy and love for the game were matched only by his incredible bat. He was the first shortstop to truly be a feared slugger, and 1958 was his masterpiece.
+**The Case:** Ernie Banks had a season for the ages, hitting 47 home runs, a record for shortstops at the time, and driving in a league-leading 129 runs. He posted an 8.7 fWAR, a phenomenal number that would be worthy of MVP honors in almost any other year. His power production from a premium defensive position was revolutionary. "Let's play two!" Banks' infectious joy and love for the game were matched only by his incredible bat. He was the first shortstop to truly be a feared slugger, and 1958 was his masterpiece.
 
 **Why He Won:** Banks' power numbers were simply impossible to ignore. Hitting 47 home runs as a shortstop was unheard of, and leading the league in RBIs while playing for a 5th-place team showed just how dominant he was. The voters rightfully recognized a historic individual performance that transcended his team's standings.
 
@@ -28,7 +30,7 @@ Here is the re-ranked top 10 for the 1958 NL MVP:
 
 **Stats:** .326/.386/.546, 30 HR, 95 RBI, 109 R, 6.8 fWAR (7.3 bWAR)
 
-**The Case:** The reigning MVP didn't slow down in 1958. Aaron hit .326 with 30 homers and 95 RBIs, providing the steady, elite production that defined his career. He also won his first Gold Glove, proving he was more than just a bat. His 6.8 fWAR solidified his status as one of the game's elite. Hank Aaron was a "dazzler," as Posnanski describes—so consistent and great that people sometimes took him for granted. He wasn't flashy, but he was perfect. In 1958, he helped lead the Braves to another pennant with his quiet, relentless excellence.
+**The Case:** The reigning MVP didn't slow down in 1958. Aaron hit .326 with 30 homers and 95 RBIs, providing the steady, elite production that defined his career. He also won his first Gold Glove, proving he was more than just a bat. His 6.8 fWAR solidified his status as one of the game's elite. Hank Aaron was a "dazzler," as Posnanski describes: so consistent and great that people sometimes took him for granted. He wasn't flashy, but he was perfect. In 1958, he helped lead the Braves to another pennant with his quiet, relentless excellence.
 
 ### 4. Richie Ashburn (Philadelphia Phillies, CF)
 **Actual Rank:** 7th
@@ -42,7 +44,7 @@ Here is the re-ranked top 10 for the 1958 NL MVP:
 
 **Stats:** 14-13, 2.88 ERA, 250.0 IP, 225 SO, 5.5 fWAR (6.3 bWAR)
 
-**The Case:** "Toothpick Sam" was the most dominant strikeout pitcher in the league, fanning 225 batters to lead the NL. He also had a stellar 2.88 ERA. While his 14-13 record wasn't eye-popping, his ability to miss bats was unrivaled. Jones was a terrifying presence on the mound, known for his wicked curveball—which Stan Musial called the best he ever saw—and his occasional wildness (he also led the league in walks). In 1958, he harnessed that stuff to become a true ace.
+**The Case:** "Toothpick Sam" was the most dominant strikeout pitcher in the league, fanning 225 batters to lead the NL. He also had a stellar 2.88 ERA. While his 14-13 record wasn't eye-popping, his ability to miss bats was unrivaled. Jones was a terrifying presence on the mound, known for his wicked curveball, which Stan Musial called the best he ever saw, and his occasional wildness (he also led the league in walks). In 1958, he harnessed that stuff to become a true ace.
 
 ### 6. Lew Burdette (Milwaukee Braves, RHP)
 **Actual Rank:** 11th
@@ -63,7 +65,7 @@ Here is the re-ranked top 10 for the 1958 NL MVP:
 
 **Stats:** .307/.376/.490, 23 HR, 90 RBI, 101 R, 5.3 fWAR (6.0 bWAR)
 
-**The Case:** Ken Boyer put together a fantastic all-around season, hitting .307 with 23 homers and 90 RBIs. He also won his first Gold Glove at third base. He was a consistent force in the middle of the Cardinals' lineup and a vacuum cleaner at the hot corner. Boyer was the "complete player"—he could hit, run, and field with the best of them. 1958 marked his ascent as the premier third baseman in the league, a mantle he would hold for years.
+**The Case:** Ken Boyer put together a fantastic all-around season, hitting .307 with 23 homers and 90 RBIs. He also won his first Gold Glove at third base. He was a consistent force in the middle of the Cardinals' lineup and a vacuum cleaner at the hot corner. Boyer was the "complete player": he could hit, run, and field with the best of them. 1958 marked his ascent as the premier third baseman in the league, a mantle he would hold for years.
 
 ### 9. Warren Spahn (Milwaukee Braves, LHP)
 **Actual Rank:** 5th

@@ -1,6 +1,8 @@
 ---
 title: "1959 NL MVP: Mr. Cub's Encore"
-permalink: /baseball/1959-nl-mvp/
+collection: baseball
+permalink: /baseball/mvp-cy-young-revisit/1959-nl-mvp/
+hidden: true
 ---
 
 The 1959 National League season was a thriller, culminating in a tie-breaker series between the Dodgers and the Braves, with Los Angeles eventually triumphing and going on to win the World Series. In the MVP race, Ernie Banks made history by becoming the first National League player to win back-to-back MVP awards, despite playing for a Cubs team that finished well out of contention. But was he truly the most valuable player in the league, or did the "Say Hey Kid" and "Hammerin' Hank" have better cases?
