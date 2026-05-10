@@ -20,6 +20,10 @@ In this episode, I shared a few early-season thoughts from a new vantage point: 
 
 After moving to the Bay Area, I finally had the chance to watch the Giants in person at Oracle Park. My seat was in the upper deck behind home plate, which turned out to be a perfect place to take in the full geometry of the game. From that angle, the field opens up cleanly, and beyond the outfield you get the signature view of the bay.
 
+![Oracle Park from the upper deck behind home plate](/images/oracle-park-opening-day-2026.jpg)
+
+*Oracle Park on Opening Day, viewed from the upper deck behind home plate.*
+
 The Opening Day presentation was also memorable. The atmosphere had the familiar rhythm of a ballpark celebration, but what stood out most to me was how much live information is now built into the stadium experience. The scoreboard was not just showing the traditional line score. It displayed Statcast-style information such as hitter exit velocity, pitcher spin rate, pitch movement, and even defensive metrics like exchange time and arm strength.
 
 That changed how I watched the game. Seeing those numbers immediately after each play makes the stadium feel like a live analytics lab. A hard-hit ball, a pitch with late movement, or a quick transfer from an infielder no longer lives only in the eye test; the park gives fans the data layer almost instantly.
