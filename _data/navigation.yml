@@ -22,5 +22,5 @@ main:
   - title: "CV"
     url: /files/CV_tayang.pdf
   
-  - title: "Baseball"
-    url: /baseball/
+  # - title: "Baseball"
+  #   url: /baseball/
